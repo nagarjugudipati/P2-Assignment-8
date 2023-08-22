@@ -1,0 +1,13 @@
+D:\Mphasis\Phase-2\Day-8\ConAppAssignment08\ConAppAssignment08\bin\Debug\ConAppAssignment08.exe.config
+D:\Mphasis\Phase-2\Day-8\ConAppAssignment08\ConAppAssignment08\bin\Debug\ConAppAssignment08.exe
+D:\Mphasis\Phase-2\Day-8\ConAppAssignment08\ConAppAssignment08\bin\Debug\ConAppAssignment08.pdb
+D:\Mphasis\Phase-2\Day-8\ConAppAssignment08\ConAppAssignment08\bin\Debug\EntityFramework.dll
+D:\Mphasis\Phase-2\Day-8\ConAppAssignment08\ConAppAssignment08\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mphasis\Phase-2\Day-8\ConAppAssignment08\ConAppAssignment08\bin\Debug\EntityFramework.xml
+D:\Mphasis\Phase-2\Day-8\ConAppAssignment08\ConAppAssignment08\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mphasis\Phase-2\Day-8\ConAppAssignment08\ConAppAssignment08\obj\Debug\ConAppAssignment08.csproj.AssemblyReference.cache
+D:\Mphasis\Phase-2\Day-8\ConAppAssignment08\ConAppAssignment08\obj\Debug\ConAppAssignment08.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Phase-2\Day-8\ConAppAssignment08\ConAppAssignment08\obj\Debug\ConAppAssignment08.csproj.CoreCompileInputs.cache
+D:\Mphasis\Phase-2\Day-8\ConAppAssignment08\ConAppAssignment08\obj\Debug\ConAppAssignment08.csproj.CopyComplete
+D:\Mphasis\Phase-2\Day-8\ConAppAssignment08\ConAppAssignment08\obj\Debug\ConAppAssignment08.exe
+D:\Mphasis\Phase-2\Day-8\ConAppAssignment08\ConAppAssignment08\obj\Debug\ConAppAssignment08.pdb
